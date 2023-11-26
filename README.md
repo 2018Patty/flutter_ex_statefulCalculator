@@ -1,6 +1,6 @@
 # statefuldemo
 
-<img src="assets/images/ex4_2Calculator.png" style="width: 300px; height:550px">
+<img src="images/ex4_2Calculator.png" style="width: 300px; height:550px">
 
 A new Flutter project.
 
